@@ -1,5 +1,5 @@
 # Dio-github
 Projeto inicial git/github
 
-Links Uteis
+LinkedIn
 https://www.linkedin.com/in/barbara-leles/
